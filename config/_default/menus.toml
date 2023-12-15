@@ -1,0 +1,66 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "Origin story"
+    url = "/posts/about"
+    weight = 2
+
+[[main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 3
+
+[[main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+# [[main]]
+#     identifier = "donate"
+#     name = "Donate"
+#     url = "https://ko-fi.com/nixentric"
+#     weight = 5
+    
+# Social Media Configuration
+
+# [[social]]
+#     identifier = "twitter"
+#     name = "Twitter"
+#     url = "#"
+#     weight = 1
+
+# [[social]]
+#     identifier = "instagram"
+#     name = "Instagram"
+#     url = "#"
+#     weight = 2
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/siliconbirb"
+    weight = 1
+
+[[social]]
+    identifier = "gitlab"
+    name = "GitLab"
+    url = "https://gitlab.com/siliconbirb"
+    weight = 2
+
+[[social]]
+    identifier = "email"
+    name = "Email"
+    url = "mailto:hello@siliconbirb.org"
+    weight = 3
+
+[[social]]
+    identifier = "call"
+    name = "Call"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
